@@ -1,0 +1,8 @@
+C:\Users\Kirill\Desktop\z37\bin\Debug\z37.exe.config
+C:\Users\Kirill\Desktop\z37\bin\Debug\z37.exe
+C:\Users\Kirill\Desktop\z37\bin\Debug\z37.pdb
+C:\Users\Kirill\Desktop\z37\obj\Debug\z37.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\z37\obj\Debug\z37.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\z37\obj\Debug\z37.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\z37\obj\Debug\z37.exe
+C:\Users\Kirill\Desktop\z37\obj\Debug\z37.pdb

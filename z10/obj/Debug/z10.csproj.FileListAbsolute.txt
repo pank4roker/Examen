@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\z10\bin\Debug\z10.exe.config
+C:\Users\Kab-35-6\Desktop\z10\bin\Debug\z10.exe
+C:\Users\Kab-35-6\Desktop\z10\bin\Debug\z10.pdb
+C:\Users\Kab-35-6\Desktop\z10\obj\Debug\z10.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\z10\obj\Debug\z10.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\z10\obj\Debug\z10.exe
+C:\Users\Kab-35-6\Desktop\z10\obj\Debug\z10.pdb

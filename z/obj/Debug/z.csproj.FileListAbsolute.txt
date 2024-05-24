@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\z\bin\Debug\z.exe.config
+C:\Users\Kab-35-6\Desktop\z\bin\Debug\z.exe
+C:\Users\Kab-35-6\Desktop\z\bin\Debug\z.pdb
+C:\Users\Kab-35-6\Desktop\z\obj\Debug\z.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\z\obj\Debug\z.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\z\obj\Debug\z.exe
+C:\Users\Kab-35-6\Desktop\z\obj\Debug\z.pdb

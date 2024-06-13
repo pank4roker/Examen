@@ -1,0 +1,8 @@
+C:\Users\Kirill\Desktop\z17()\obj\Debug\z17().csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\z17()\obj\Debug\z17().csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\z17()\obj\Debug\z17().csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\z17()\bin\Debug\z17().exe.config
+C:\Users\Kirill\Desktop\z17()\bin\Debug\z17().exe
+C:\Users\Kirill\Desktop\z17()\bin\Debug\z17().pdb
+C:\Users\Kirill\Desktop\z17()\obj\Debug\z17().exe
+C:\Users\Kirill\Desktop\z17()\obj\Debug\z17().pdb

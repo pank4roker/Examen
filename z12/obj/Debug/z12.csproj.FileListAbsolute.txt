@@ -1,0 +1,8 @@
+C:\Users\Kirill\Desktop\z12\bin\Debug\z12.exe.config
+C:\Users\Kirill\Desktop\z12\bin\Debug\z12.exe
+C:\Users\Kirill\Desktop\z12\bin\Debug\z12.pdb
+C:\Users\Kirill\Desktop\z12\obj\Debug\z12.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\z12\obj\Debug\z12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\z12\obj\Debug\z12.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\z12\obj\Debug\z12.exe
+C:\Users\Kirill\Desktop\z12\obj\Debug\z12.pdb

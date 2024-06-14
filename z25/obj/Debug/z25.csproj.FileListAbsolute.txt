@@ -1,0 +1,8 @@
+C:\Users\Kirill\Desktop\z25\bin\Debug\z25.exe.config
+C:\Users\Kirill\Desktop\z25\bin\Debug\z25.exe
+C:\Users\Kirill\Desktop\z25\bin\Debug\z25.pdb
+C:\Users\Kirill\Desktop\z25\obj\Debug\z25.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\z25\obj\Debug\z25.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\z25\obj\Debug\z25.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\z25\obj\Debug\z25.exe
+C:\Users\Kirill\Desktop\z25\obj\Debug\z25.pdb

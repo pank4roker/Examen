@@ -1,0 +1,8 @@
+C:\Users\Kirill\Desktop\z34\bin\Debug\z34.exe.config
+C:\Users\Kirill\Desktop\z34\bin\Debug\z34.exe
+C:\Users\Kirill\Desktop\z34\bin\Debug\z34.pdb
+C:\Users\Kirill\Desktop\z34\obj\Debug\z34.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\z34\obj\Debug\z34.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\z34\obj\Debug\z34.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\z34\obj\Debug\z34.exe
+C:\Users\Kirill\Desktop\z34\obj\Debug\z34.pdb

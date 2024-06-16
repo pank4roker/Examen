@@ -1,0 +1,8 @@
+C:\Users\Kirill\Desktop\z45\bin\Debug\z45.exe.config
+C:\Users\Kirill\Desktop\z45\bin\Debug\z45.exe
+C:\Users\Kirill\Desktop\z45\bin\Debug\z45.pdb
+C:\Users\Kirill\Desktop\z45\obj\Debug\z45.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\z45\obj\Debug\z45.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\z45\obj\Debug\z45.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\z45\obj\Debug\z45.exe
+C:\Users\Kirill\Desktop\z45\obj\Debug\z45.pdb
